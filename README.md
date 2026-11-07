@@ -1,12 +1,20 @@
 # Lotus Docs
 
 ## About Me
-* Doing best for making efficient, fast, cheap, reliable programs.
+* Doing best for making efficient, fast, secure programs.
 * I values communications - If there is any problem situation, I will not act with my own opinion.
-* Interested in making way-new products which never invented yet in world.
 
 ## Achivements
 * I'm trying to be better person day by day.
+
+## CurrentFocus
+* Interested in making way-new products which never invented yet in world.
+* I'm always trying to make profitable, simple, cheap programs.
+
+## My lovely projects
+* STUCAN
+* Sideyes
+* Simulator
 
 ## Qualification 
 * 리눅스마스터 2급
