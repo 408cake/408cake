@@ -64,8 +64,6 @@ defaultContentLanguage = 'en'
 
     [params.social]
         github = "408cake"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        twitter = ""       # YOUR_TWITTER_ID
-        # instagram = "408cake"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
@@ -159,16 +157,12 @@ defaultContentLanguage = 'en'
 
 [menu]
 [[menu.primary]]
-    name  = "Docs"
-    url = "docs/"
-    identifier = "docs"
-    weight = 10
 
 # [[menu.primary]]
 #     name  = "Showcase"
 #     url = "/showcase"
 #     identifier = "showcase"
-#     weight = 20
+#     weight = 10
 
 # [[menu.primary]]
 #     name  = "Community"
