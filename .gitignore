@@ -23,3 +23,14 @@ resources
 **/resources/_gen/
 **/.hugo_build.lock
 /.github-pages-setup-backups/
+
+# Hugo build output & cache
+public/
+resources/_gen/
+.hugo_build.lock
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
