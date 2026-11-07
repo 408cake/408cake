@@ -69,7 +69,7 @@ defaultContentLanguage = 'en'
         # rss = true                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "Sehoon's portfolio"           # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
@@ -82,7 +82,7 @@ defaultContentLanguage = 'en'
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/colinwilson/lotusdocs.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/408cake/408cake.git"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
@@ -172,6 +172,6 @@ defaultContentLanguage = 'en'
 
 # [[menu.primary]]
 #     name  = "Community"
-#     url = "https://github.com/colinwilson/lotusdocs/discussions"
+#     url = "https://github.com/408cake/408cake.git"
 #     identifier = "community"
 #     weight = 30
