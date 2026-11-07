@@ -7,8 +7,8 @@
 Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs/) (also doubles as the documentation guide for Lotus Docs 📖)
 
 ## Features
-
-* [x] Modern documentation layout
+* test
+<!-- * [x] Modern documentation layout
 * [x] Responsive design / Mobile support
 * [x] Fast, Accessible and SEO-Friendly (4 x 💯 scores on [Google Lighthouse](https://pagespeed.web.dev/)!)
 * [x] Secure by default
@@ -32,7 +32,7 @@ Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs
 * [x] Feedback widget
 * [x] Math equations powered by [KaTeX](https://katex.org/)
 * [x] [Mermaid](https://mermaid.js.org/) Support
-* [x] [Open Graph](https://ogp.me/)
+* [x] [Open Graph](https://ogp.me/) -->
 
 
 ## Getting Started
