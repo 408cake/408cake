@@ -3,7 +3,7 @@
 # Hero
 hero:
   enable: true
-  weight: 15
+  weight: 80
   template: hero
 
   backgroundImage:
@@ -13,17 +13,17 @@ hero:
       mobile: "gradient-mobile.webp"
 
   badge:
-    # text: v0.1.0
+    text: v0.1.0
     color: primary # primary, secondary, success, danger, warning, info, light, dark
     pill: false # boolean
     soft: true # boolean
 
-  # titleLogo:
-  #   path: "images/logos"
-  #   filename: "title_logo.png"
-  #   alt: "Lotus Docs Logo"
-  #   height: 80px
-#
+  titleLogo:
+    path: "images/logos"
+    filename: "title_logo.png"
+    alt: "Lotus Docs Logo"
+    height: 80px
+
   title: "장세훈입니다."
   subtitle: 저는**전북대학교 컴퓨터인공지능학부 23학번 학부생 입니다.** 효율적이고,안전하고 믿을 수 있는 프로그래밍을 하겠습니다. JSP를 통한 백엔드 개발 능력이 있으며, flask등 웹 프레임워크 개발 경험이 있습니다. 
 
@@ -42,21 +42,28 @@ featureGrid:
   weight: 20
   template: feature grid
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: 부족한 점이 많지만, 저는 이런 사람이 되기 위해 노력합니다.
 
   items:
-    - title: 작은 수익을 목적으로 개발합니다.
-      icon: trending_up
-      description: 큰 돈을 벌기 위해서는 먼저 한 사람에게서 500원을 정기적으로 벌어들일 수 있어야 한다고 합니다. sideyes같은 프로젝트는 심플하고, 사람들의 니즈에 맞춰서 제작중인 프로그램 입니다.
+    - title: 재미있고, 참신한것을 생각합니다.
+      icon: Sentiment_Very_Satisfied
+      description: 소프트웨어 개발은 세상에 없는걸 만들어 낼 수 있기에 값지다고 생각합니다. 재미있고, 흥미로운걸 만들어 내기 위해 계속 생각하겠습니다.
 
     - title: 보안을 생각합니다.
       icon: lock
       description: key가 실수로 푸쉬되진 않았는지, 개발시에 보안 위협은 없을지에 대해서 생각을 많이 할려고 노력하는 중입니다.
 
     - title: 효율적인 개발을 지향합니다.
-      icon: Fast
-      description: 캐시, 메모리, 효율적인 저장, 효율적인 작동 등을 고려해서 요금이 많이 나가거나 하는 상황을 최소화 하려고 노력합니다.
+      icon: Speed
+      description: 캐시, 메모리, 효율적인 CRUD 등을 고려해서 요금이 많이 나가거나 하는 상황을 최소화 하려고 노력합니다.
+
+    - title: 문제가 생기면 질문을 합니다.
+      icon: Communication
+      description: 독단적으로 해결하려고 하지 않고, 매뉴얼이나 선임에게 질문하여서 문제상황을 해결합니다.
+      
+    - title: 수익을 생각합니다.
+      icon: trending_up
+      description: 큰 돈을 벌기 위해서는 먼저 한 사람에게서 500원을 정기적으로 벌어들일 수 있어야 한다고 합니다. sideyes같은 프로젝트는 심플하면서도 사람들의 니즈에 맞는 프로그램입니다.
 
     - title: 영문 자료 해석에 겁먹지 않습니다.
       icon: translate
