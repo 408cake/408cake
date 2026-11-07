@@ -3,7 +3,7 @@
 # Hero
 hero:
   enable: true
-  weight: 80
+  weight: 10
   template: hero
 
   backgroundImage:
@@ -28,11 +28,11 @@ hero:
   subtitle: 저는**전북대학교 컴퓨터인공지능학부 23학번 학부생 입니다.** 효율적이고,안전하고 믿을 수 있는 프로그래밍을 하겠습니다. JSP를 통한 백엔드 개발 능력이 있으며, flask등 웹 프레임워크 개발 경험이 있습니다. 
 
   ctaButton:
-    icon: rocket_launch
-    btnText: "more"
-    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+    icon: Folder
+    btnText: "projects"
+    url: "https://408cake.github.io/408cake/docs/"
   cta2Button:
-    icon: construction
+    icon: Commit
     btnText: "github repo/"
     url: "https://github.com/408cake?tab=repositories"
 
@@ -65,6 +65,16 @@ featureGrid:
       icon: trending_up
       description: 큰 돈을 벌기 위해서는 먼저 한 사람에게서 500원을 정기적으로 벌어들일 수 있어야 한다고 합니다. sideyes같은 프로젝트는 심플하면서도 사람들의 니즈에 맞는 프로그램입니다.
 
-    - title: 영문 자료 해석에 겁먹지 않습니다.
+    - title: 영문자료 해석에 겁먹지 않습니다.
       icon: translate
       description: stackoverflow, 영문 논문을 최대한 읽고 해석하기 위해 부단한 노력중입니다.
+
+imageText:
+  enable: false
+  weight: 25
+  template: image text
+
+imageCompare:
+  enable: false
+  weight: 30
+  template: image compare
