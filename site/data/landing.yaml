@@ -6,18 +6,6 @@ hero:
   weight: 10
   template: hero
 
-  backgroundImage:
-    path: "images/templates/hero"
-    filename:
-      desktop: "gradient-desktop.webp"
-      mobile: "gradient-mobile.webp"
-
-  badge:
-    text: v0.1.0
-    color: primary # primary, secondary, success, danger, warning, info, light, dark
-    pill: false # boolean
-    soft: true # boolean
-
   titleLogo:
     path: "images/logos"
     filename: "title_logo.png"
@@ -30,7 +18,7 @@ hero:
   ctaButton:
     icon: Folder
     btnText: "projects"
-    url: "https://408cake.github.io/408cake/docs/"
+    url: "https://408cake.github.io/408cake/docs/quickstart/#create-a-new-lotus-docs-site"
   cta2Button:
     icon: Commit
     btnText: "github repo/"
