@@ -1,6 +1,14 @@
 # Lotus Docs
 
 ## About Me
-* 효율적인 구동과 보안에 신경쓰기 위해 노력합니다.
-* 문제상황을 단독으로 판단해서 그르치지 않고 질문을 적극적으로 하는 사람이 되겠습니다.
-* 아직 세상에 없는걸 생각해내고 만드는 것에 흥미가 있습니다.
+* Doing best for making efficient, fast, cheap, reliable programs.
+* I values communications - If there is any problem situation, I will not act with my own opinion.
+* Interested in making way-new products which never invented yet in world.
+
+## Achivements
+* I'm trying to be better person day by day.
+
+## Qualification 
+* 리눅스마스터 2급
+* JLPT N2, TOEIC 835
+* 한능검 1급, 컴퓨터활용능력 1급
