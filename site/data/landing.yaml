@@ -16,9 +16,9 @@ hero:
   subtitle: 저는**전북대학교 컴퓨터인공지능학부 23학번 학부생 입니다.** 효율적이고,안전하고 믿을 수 있는 프로그래밍을 하겠습니다. JSP를 통한 백엔드 개발 능력이 있으며, flask등 웹 프레임워크 개발 경험이 있습니다. 
 
   ctaButton:
-    icon: Folder
+    icon: folder
     btnText: "projects"
-    url: "https://408cake.github.io/408cake/docs/quickstart/#create-a-new-lotus-docs-site"
+    url: "https://408cake.github.io/408cake/docs/"
   cta2Button:
     icon: Commit
     btnText: "github repo/"

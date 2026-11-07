@@ -63,7 +63,7 @@ defaultContentLanguage = 'en'
         # version = true # includes git commit info
 
     [params.social]
-        github = "https://github.com/408cake/408cake.git"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+        github = "408cake"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
         twitter = ""       # YOUR_TWITTER_ID
         # instagram = "408cake"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
