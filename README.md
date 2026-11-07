@@ -1,5 +1,5 @@
 ## About Me
-* Doing best for making efficient, fast, secure programs.
+* Doing my best for making efficient, fast, secure programs.
 * I values communications - If there is any problem situation, I will not act with my own opinion.
 * 🔗 [SeHoon's Portfolio Website](https://408cake.github.io/408cake/)
 ## Achivements
