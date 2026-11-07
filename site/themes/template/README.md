@@ -8,32 +8,6 @@ Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs
 
 ## Features
 * test
-<!-- * [x] Modern documentation layout
-* [x] Responsive design / Mobile support
-* [x] Fast, Accessible and SEO-Friendly (4 x 💯 scores on [Google Lighthouse](https://pagespeed.web.dev/)!)
-* [x] Secure by default
-* [x] Built on Bootstrap 5
-* [x] Deploy on [GitHub Pages](https://lotusdocs.dev/docs/deployment/platforms/github-pages/), [GitLab Pages](https://lotusdocs.dev/docs/deployment/platforms/gitlab-pages/), [Vercel](https://vercel.com/), [Netlify](https://netlify.com), or [Cloudflare Pages](https://pages.cloudflare.com/)
-* [x] Multilingual support (i18n)
-* [x] Powerful Syntax Highlighting via [Prism.js](https://prismjs.com/)
-* [x] Dark Mode
-* [x] Custom fonts (via [Google Fonts](https://fonts.google.com/))
-* [x] Custom icons (via [Google Material Symbols](https://fonts.google.com/icons?icon.style=Outlined&icon.set=Material+Symbols))
-* [x] Landing page template included
-* [x] Documentation sidebar menu (with optional icons)
-* [x] Table of Contents menu on each page (optional)
-* [x] Customisable theme accent colour
-* [x] Social media links (Github, Twitter, Instagram etc)
-* [x] Static Search plugin option (powered by [FlexSearch](https://github.com/nextapps-de/flexsearch), enabled by default)
-* [x] Support for [DocSearch](https://docsearch.algolia.com/)
-* [x] Custom shortcodes (PrismJS, Alerts, Tabs, Tables)
-* [x] Analytics ([Google Analytics v4](https://analytics.google.com/analytics/web/), [Plausible Analytics](https://plausible.io/))
-* [x] Cross-browser testing via [BrowserStack](https://browserstack.com)
-* [x] Feedback widget
-* [x] Math equations powered by [KaTeX](https://katex.org/)
-* [x] [Mermaid](https://mermaid.js.org/) Support
-* [x] [Open Graph](https://ogp.me/) -->
-
 
 ## Getting Started
 
