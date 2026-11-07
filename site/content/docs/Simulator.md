@@ -8,7 +8,9 @@ icon: "Target"
 toc: true
 description: "대한민국을 지키는 가장 강한 힘! 예비군 사격 시뮬레이터 입니다. 조기퇴소를 할 수 있도록 노력해보세요."
 publishdate: "2023-05-03T22:37:22+01:00"
-tags: ["Beginners"]
+menu:
+  docs:
+    parent: ""
 ---
 
 ## Preview your Site
