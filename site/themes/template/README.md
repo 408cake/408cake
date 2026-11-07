@@ -7,7 +7,8 @@
 Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs/) (also doubles as the documentation guide for Lotus Docs 📖)
 
 ## Features
-* test
+* testttttttt
+* another test;;
 
 ## Getting Started
 
