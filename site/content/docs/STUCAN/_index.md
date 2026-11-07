@@ -8,9 +8,6 @@ icon: "Monitoring"
 toc: true
 description: "당신의 코딩능력을 판다면 얼마에 파시겠습니까?"
 publishdate: "2023-05-03T22:37:22+01:00"
-menu:
-  docs:
-    parent: ""
 ---
 
 ## Preview your Site

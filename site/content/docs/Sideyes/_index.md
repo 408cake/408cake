@@ -8,9 +8,6 @@ icon: "Monitoring"
 toc: true
 description: "근무시간에 몰래 주가를 보고싶다면 제가 도와드리겠습니다.."
 publishdate: "2023-05-03T22:37:22+01:00"
-menu:
-  docs:
-    parent: ""
 ---
 
 ## Preview your Site
