@@ -2,11 +2,9 @@
 * Doing my best for making efficient, fast, secure programs.
 * I values communications - If there is any problem situation, I will not act with my own opinion.
 * 🔗 [SeHoon's Portfolio Website](https://408cake.github.io/408cake/)
-## Achivements
-* I'm trying to be better person day by day.
-
+  
 ## CurrentFocus
-* FUN, Never-before-seen, creative thing is matter for me.
+* FUN, creative thing is matter for me.
 * Interested in making way-new products which never invented yet in world.
 * I'm always trying to make profitable, simple, cheap programs.
 
