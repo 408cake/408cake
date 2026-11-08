@@ -14,6 +14,7 @@
 * STUCAN
 * Sideyes
 * shooting simulator
+* memo_jang
 
 ## Qualification 
 * 리눅스마스터 2급
